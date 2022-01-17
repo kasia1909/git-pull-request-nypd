@@ -1,3 +1,6 @@
+import sys
+
+
 def function1():
     print("Call of function 1")
 
@@ -8,3 +11,4 @@ def function2():
 
 def function3():
     print("Call of function 3")
+
