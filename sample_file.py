@@ -12,3 +12,4 @@ def function3():
 
 def function4():
     print("Call of function 4")
+
