@@ -7,7 +7,7 @@ It needs support from git server and allows for discuss about changes.
 
 https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html
 
-https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request89s
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 
 Exercises
 *********
